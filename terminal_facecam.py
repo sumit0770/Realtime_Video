@@ -32,8 +32,8 @@ try:
             # Use jp2a to convert the image to ASCII and print it in the terminal
             os.system('jp2a --width=100 --height=30 frame.jpg')
 
-        # Introduce a delay of 0.005 seconds
-        time.sleep(0.00005)
+        # Introduce a delay of 0.0005 seconds
+        time.sleep(0.0005)
 
         # Add a break condition
  #      if cv2.waitKey(1) & 0xFF == ord('q'):
