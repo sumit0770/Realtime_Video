@@ -60,12 +60,8 @@ Here’s what the ASCII output might look like in your terminal:
 
 scss
 
-          _____
-         /     \
-        | () () |
-         \  ^  /
-          |||||
-          |||||
+      <img width="1440" alt="Screenshot 2024-10-14 at 7 34 38 AM" src="https://github.com/user-attachments/assets/e0928866-8105-490f-a973-2fa376659968">
+  
 
 Troubleshooting
 
