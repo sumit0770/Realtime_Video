@@ -32,10 +32,6 @@ Installation
 
     bash
 
-    git clone https://github.com/sumit0770/ascii-facecam.git
-    cd ascii-facecam
-    
-
     Install dependencies: Install the required Python and system dependencies as mentioned above.
 
 Running the Script
